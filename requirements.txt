@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic
+sqlalchemy
+mysql-connector-python
+python-dotenv
+streamlit>=1.25
+pandas
