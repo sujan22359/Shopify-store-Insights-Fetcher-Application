@@ -29,7 +29,7 @@ A FastAPI-based backend application to store, manage, and fetch brand insights f
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Shopify-Store-Insights-Fetcher.git
+git clone https://github.com/sujan22359/Shopify-store-Insights-Fetcher-Application.git
 cd Shopify-Store-Insights-Fetcher
 ```
 
@@ -82,14 +82,6 @@ Open your browser and go to:
 - **GET /brands** – Fetch all brands  
 - **GET /brands/{id}** – Fetch brand details by ID
 
----
-
-## Notes
-
-- This project was developed as part of an internship assignment.  
-- Thanks for the opportunity to showcase **FastAPI, SQLAlchemy, and Python skills** through this application.  
-
----
 
 ## License
 
